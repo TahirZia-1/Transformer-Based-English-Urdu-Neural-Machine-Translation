@@ -1,8 +1,7 @@
 
-- **data/**: Contains parallel corpora for training, validation, and testing.
+- **data**: Contains parallel corpora for training, validation, and testing.
 - **2021465_2021758.ipynb**: Notebook implementing a custom Transformer model from scratch.
 - **huggingface_Model.ipynb**: Notebook fine-tuning the pretrained MarianMT model.
-- **requirements.txt**: Lists all necessary Python packages.
 
 ---
 
@@ -80,5 +79,4 @@ The pretrained MarianMT model outperformed the custom Transformer model in both 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TahirZia-1/NLP-Project.git
-   cd NLP-Project
+   git clone https://github.com/TahirZia-1/Transformer-Based-English-Urdu-Neural-Machine-Translation.git
