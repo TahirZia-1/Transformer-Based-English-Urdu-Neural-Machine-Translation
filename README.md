@@ -1,7 +1,7 @@
 
-- **data**: Contains parallel corpora for training, validation, and testing.
-- **2021465_2021758.ipynb**: Notebook implementing a custom Transformer model from scratch.
-- **huggingface_Model.ipynb**: Notebook fine-tuning the pretrained MarianMT model.
+- **dataset**: Contains parallel corpora for training, validation, and testing.
+- **code/2021465_2021758.ipynb**: Notebook implementing a custom Transformer model from scratch.
+- **code/huggingface_Model.ipynb**: Notebook fine-tuning the pretrained MarianMT model.
 
 ---
 
