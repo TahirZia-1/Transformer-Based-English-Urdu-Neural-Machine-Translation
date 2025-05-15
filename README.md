@@ -1,4 +1,4 @@
-
+- **Videos could not be uploaded to the repo due to file size greater than 100 MB**
 - **dataset**: Contains parallel corpora for training, validation, and testing.
 - **code/2021465_2021758.ipynb**: Notebook implementing a custom Transformer model from scratch.
 - **code/huggingface_Model.ipynb**: Notebook fine-tuning the pretrained MarianMT model.
